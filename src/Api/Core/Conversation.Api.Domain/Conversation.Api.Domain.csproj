@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Conversation.Common\Conversation.Common.csproj" />
+  </ItemGroup>
+
 </Project>

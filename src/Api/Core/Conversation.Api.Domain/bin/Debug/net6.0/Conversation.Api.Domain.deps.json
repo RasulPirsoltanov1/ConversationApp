@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conversation.Api.Domain/1.0.0": {
+        "dependencies": {
+          "Conversation.Common": "1.0.0"
+        },
+        "runtime": {
+          "Conversation.Api.Domain.dll": {}
+        }
+      },
+      "Conversation.Common/1.0.0": {
+        "runtime": {
+          "Conversation.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversation.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conversation.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

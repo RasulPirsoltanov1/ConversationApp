@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FjcVQCvdFjWD7RcPFLPXx6bplJ1jOQH/YmlJ7g2/OyQ=",
+  "Source": "Conversation.Api.WebApi",
+  "BasePath": "_content/Conversation.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

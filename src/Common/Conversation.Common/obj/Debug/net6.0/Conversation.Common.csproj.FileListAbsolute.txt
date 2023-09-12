@@ -1,0 +1,12 @@
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\bin\Debug\net6.0\Conversation.Common.deps.json
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\bin\Debug\net6.0\Conversation.Common.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\bin\Debug\net6.0\Conversation.Common.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\refint\Conversation.Common.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\Conversation.Common.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Common\Conversation.Common\obj\Debug\net6.0\ref\Conversation.Common.dll

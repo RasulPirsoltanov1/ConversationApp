@@ -1,0 +1,12 @@
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Api.Application.deps.json
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Api.Application.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Api.Application.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\refint\Conversation.Api.Application.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\ref\Conversation.Api.Application.dll

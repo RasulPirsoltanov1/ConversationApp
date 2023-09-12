@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Conversation.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Conversation.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Conversation.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Conversation.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Conversation.Common/Conversation.Common.csproj",
+      "msbuildProject": "../../../Common/Conversation.Common/Conversation.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Conversation.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\resul\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\Conversation\\src\\Common\\Conversation.Common\\Conversation.Common.csproj": {
+              "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\Conversation\\src\\Common\\Conversation.Common\\Conversation.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
