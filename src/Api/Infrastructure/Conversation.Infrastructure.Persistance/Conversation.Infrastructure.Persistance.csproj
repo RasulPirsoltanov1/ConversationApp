@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Conversation.Api.Domain\Conversation.Api.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Conversation.Application\Conversation.Api.Application.csproj" />
   </ItemGroup>
 
 </Project>

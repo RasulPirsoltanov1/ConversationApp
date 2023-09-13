@@ -10,3 +10,8 @@ C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversati
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\refint\Conversation.Api.Application.dll
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.pdb
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\ref\Conversation.Api.Application.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Api.Domain.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Common.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Api.Domain.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\bin\Debug\net6.0\Conversation.Common.pdb
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Core\Conversation.Application\obj\Debug\net6.0\Conversation.Api.Application.csproj.CopyComplete

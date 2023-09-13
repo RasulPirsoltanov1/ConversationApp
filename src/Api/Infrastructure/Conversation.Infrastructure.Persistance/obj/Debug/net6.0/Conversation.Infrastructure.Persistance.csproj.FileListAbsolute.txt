@@ -17,3 +17,5 @@ C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\Conversation.Infrastructure.Persistance\obj\Debug\net6.0\Conversation.Infrastructure.Persistance.pdb
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\Conversation.Infrastructure.Persistance\obj\Debug\net6.0\Conversation.Infrastructure.Persistance.genruntimeconfig.cache
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\Conversation.Infrastructure.Persistance\obj\Debug\net6.0\ref\Conversation.Infrastructure.Persistance.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\Conversation.Infrastructure.Persistance\bin\Debug\net6.0\Conversation.Api.Application.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\Infrastructure\Conversation.Infrastructure.Persistance\bin\Debug\net6.0\Conversation.Api.Application.pdb

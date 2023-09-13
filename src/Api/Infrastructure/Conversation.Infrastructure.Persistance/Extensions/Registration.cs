@@ -1,4 +1,6 @@
-﻿using Conversation.Infrastructure.Persistance.Context;
+﻿using Conversation.Api.Application.Interfaces.Repositories;
+using Conversation.Infrastructure.Persistance.Context;
+using Conversation.Infrastructure.Persistance.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,6 +23,20 @@ namespace Conversation.Infrastructure.Persistance.Extensions
             var seedData = new SeedData();
 
             seedData.SeedDataAsync(configuration).GetAwaiter().GetResult();
+
+
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IEntryRepository, EntryRepository>();
+            services.AddScoped<IEntryCommentFavoriteRepository,EntryCommentFavoriteRepository>();
+            services.AddScoped<IEntryCommentRepository,EntryCommentRepository>();
+            services.AddScoped<IEntryCommentVoteRepository,EntryCommentVoteRepository>();
+            services.AddScoped<IEntryVoteRepository,EntryVoteRepository>();
+            services.AddScoped<IEntryFavoriteRepository,EntryFavoriteRepository>();
+            services.AddScoped<IEmailConfirmationRepository,EmailConfirmationRepository>();
+
+
+
+
             return services;
         }
     }

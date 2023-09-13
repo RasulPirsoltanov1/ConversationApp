@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9Smqy8augMT+alSyjsqqFi47v2B4LWtOzTo6D2pbNaxqaFpLock1OZnZgymPoe1wvZ7iZM8vSCO78WJ1zE+I0A==",
+  "dgSpecHash": "GBvr7itzYAvkV3yfCKZARjmkawkouj/m8a7maaDyybgsxyecb07b+8ray/7gh5jeexLmvxf6b+TlqDa1afficw==",
   "success": true,
   "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\Conversation\\src\\Common\\Conversation.Common\\Conversation.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

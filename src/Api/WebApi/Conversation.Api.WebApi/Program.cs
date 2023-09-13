@@ -1,3 +1,4 @@
+using Conversation.Api.Application.Extensions;
 using Conversation.Infrastructure.Persistance.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,10 +10,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
 //Persistance Registration
 builder.Services.AddInfrastructureRegistration(builder.Configuration);
 
 
+//Application Registration
+builder.Services.AddApplicationRegistration();
 
 
 
