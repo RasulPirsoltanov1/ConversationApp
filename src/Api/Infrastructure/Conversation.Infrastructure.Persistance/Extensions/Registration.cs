@@ -12,12 +12,15 @@ namespace Conversation.Infrastructure.Persistance.Extensions
 {
     public static class Registration
     {
-        public static IServiceCollection AddInfrastructureRegistration(this IServiceCollection services,IConfiguration configuration)
+        public static IServiceCollection AddInfrastructureRegistration(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<ConversationDbContext>(opt =>
             {
                 opt.UseSqlServer(configuration.GetConnectionString("Default"));
             });
+            var seedData = new SeedData();
+
+            seedData.SeedDataAsync(configuration).GetAwaiter().GetResult();
             return services;
         }
     }
