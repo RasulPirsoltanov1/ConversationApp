@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "N0buDBeOKij6qWmqdViWMrWVxYMSY08x5+k9l/XTjIxMQ8UiiFtWxYCFkXoHHHygmeqMSK8bP5DUOo61zJ/vAA==",
+  "dgSpecHash": "agKP47+lDsWqXcrSlvHbkJ7QkiDSkUDP1JEX/zzW9vCAAGbdPzdpbI2jhGC6XyAljTRoTConk8IfN9Of2z50HA==",
   "success": true,
   "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Projects\\Conversation\\src\\Api\\Core\\Conversation.Api.Domain\\Conversation.Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resul\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
-    "C:\\Users\\resul\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\resul\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

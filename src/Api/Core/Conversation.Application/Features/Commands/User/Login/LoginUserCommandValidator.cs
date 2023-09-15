@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Conversation.Api.Application.Features.Commands.User
+namespace Conversation.Api.Application.Features.Commands.Users
 {
     public class LoginUserCommandValidator:AbstractValidator<LoginUserCommand>
     {

@@ -23,6 +23,18 @@ namespace Conversation.Api.WebApi.Controllers
             var response =await _mediator.Send(loginUserCommand);
             return Ok(response);
         }
-        
+        [HttpPost("Create")]
+        public async Task<IActionResult> Create(CreateUserCommand createUserCommand)
+        {
+            var response = await _mediator.Send(createUserCommand);
+            return Ok(response);
+        }
+        [HttpPost("Update")]
+        public async Task<IActionResult> Update(UpdateUserCommand updateUserCommand)
+        {
+            var response = await _mediator.Send(updateUserCommand);
+            return Ok(response);
+        }
+
     }
 }

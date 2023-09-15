@@ -84,3 +84,5 @@ C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversa
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversation.Api.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversation.Api.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversation.Api.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversation.Api.WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\resul\OneDrive\Masaüstü\Projects\Conversation\src\Api\WebApi\Conversation.Api.WebApi\bin\Debug\net6.0\System.Threading.Channels.dll
